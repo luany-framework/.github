@@ -1,21 +1,27 @@
 # Luany Framework
 
-Luany is a lightweight, high-performance PHP MVC framework powered by LTE — an AST-based template engine designed for expressive and optimized rendering.
+Luany is a lightweight, high-performance PHP MVC framework powered by LTE — an AST-driven template engine built for expressive, predictable, and optimized rendering.
+
+## Vision
+
+To deliver extreme performance and developer productivity through architectural simplicity and a compiler-oriented template engine.
 
 ## Core Principles
 
-- ⚡ Extreme performance
+- ⚡ Performance-first design
 - 🧠 AST-driven template engine (no regex parsing)
-- 🧩 Clean MVC architecture
+- 🧩 Clean and minimal MVC architecture
 - ✨ Elegant and expressive syntax
-- 🚀 Built for simplicity and productivity
+- 🚀 Built for simplicity and scalability
 
-## Projects
+## Ecosystem
 
-- luany — Core framework
-- lte — Luany Template Engine
-- luany-lte-vscode — VS Code extension
-- examples — Usage examples
-- benchmarks — Performance benchmarks
+- **luany** — Core framework
+- **lte** — Luany Template Engine
+- **luany-lte-vscode** — VS Code extension
+- **examples** — Usage examples
+- **benchmarks** — Performance benchmarks
+
+---
 
 Built in Angola 🇦🇴
