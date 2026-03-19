@@ -25,11 +25,18 @@ Designed with a compiler-first mindset, Luany focuses on predictable behavior, c
 ---
 
 ## Quick Start
-
 ```bash
+# With Luany CLI (recommended)
+composer global require luany/cli
+luany new my-app
+cd my-app
+
+# Or directly via Composer
 composer create-project luany/luany my-app
 cd my-app
-luany key:generate
+
+luany doctor
+luany migrate
 luany serve
 ```
 
