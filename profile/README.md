@@ -62,6 +62,12 @@ luany/luany (skeleton)
 
 ---
 
+## Documentation
+
+[docs.luany.dev](https://docs.luany.dev) *(coming soon)*
+
+---
+
 ## Philosophy
 
 - Performance-first architecture with zero magic
