@@ -10,12 +10,12 @@ Designed with a compiler-first mindset, Luany focuses on predictable behavior, c
 
 | Package | Description | Version |
 |---------|-------------|---------|
-| [luany/core](https://github.com/luany-ecosystem/luany-core) | HTTP Request/Response, Router, Middleware Pipeline | v0.2.4 |
-| [luany/database](https://github.com/luany-ecosystem/luany-database) | PDO Connection, Query Builder, Active Record ORM, Migrations | v0.1.3 |
-| [luany/framework](https://github.com/luany-ecosystem/luany-framework) | Application Container, Kernel, Service Providers, i18n | v0.3.1 |
-| [luany/lte](https://github.com/luany-ecosystem/luany-lte) | AST-compiled template engine (`.lte` files) | v0.2.x |
-| [luany/cli](https://github.com/luany-ecosystem/luany-cli) | Command-line tool, scaffolding, migrations | v0.2.2 |
-| [luany/luany](https://github.com/luany-ecosystem/luany) | Ready-to-use application skeleton | — |
+| [luany/core](https://github.com/luany-ecosystem/luany-core) | HTTP Request/Response, Router, Middleware Pipeline | v1.0.0 |
+| [luany/database](https://github.com/luany-ecosystem/luany-database) | PDO Connection, Query Builder, Active Record ORM, Migrations | v1.0.0 |
+| [luany/framework](https://github.com/luany-ecosystem/luany-framework) | Application Container, Kernel, Service Providers, i18n | v1.0.0 |
+| [luany/lte](https://github.com/luany-ecosystem/luany-lte) | AST-compiled template engine (`.lte` files) | v1.0.0 |
+| [luany/cli](https://github.com/luany-ecosystem/luany-cli) | Command-line tool, scaffolding, migrations | v1.0.0 |
+| [luany/luany](https://github.com/luany-ecosystem/luany) | Ready-to-use application skeleton | v1.0.0 |
 
 ### Tooling
 
@@ -84,4 +84,4 @@ Engineered for the global PHP community.
 
 ---
 
-**License**: MIT | **PHP**: >= 8.1 | **Author**: António Ambrósio Ngola
+**License**: MIT | **PHP**: >= 8.2 | **Author**: António Ambrósio Ngola
